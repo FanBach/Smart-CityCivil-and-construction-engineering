@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/Yolo_final_data/images/train/
+val: /content/drive/MyDrive/Yolo_final_data/images/val/
+nc: 3
+
+names: ['rubbish','mattress', 'furniture']

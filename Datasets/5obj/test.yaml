@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/New_data/fixed_yolo_data/images/train/
+val: /content/drive/MyDrive/New_data/fixed_yolo_data/images/test/
+nc: 5
+
+names: ['rubbish','mattress', 'furniture', 'chair', 'electrical goods']
